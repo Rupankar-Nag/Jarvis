@@ -44,9 +44,9 @@ Dependencies:
 - google-api (Gemini)
 - Keyboard
 - os 
--webbrowser
--(if you use spotify,{spotipy,spotipy.oauth2})
--yt_dlp (to play song)
+- webbrowser
+- (if you use spotify,{spotipy,spotipy.oauth2})
+- yt_dlp (to play song)
 
 Spotify API:- 
 
