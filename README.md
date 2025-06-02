@@ -22,7 +22,6 @@ In code:-
 - It wakes with("alt + x") but it can also wake with "jarvis" word when microphone is working constantly(It's commented) 
 
 
-app_paths:-
 # app_paths.py
 #app_map use to open app, example:-
 app_map = {
