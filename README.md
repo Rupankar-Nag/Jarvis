@@ -37,7 +37,7 @@ app_dict = {
 }
 
 
-#Dependencies:
+# Dependencies:
 - speech_recognition
 - pyttsx3
 - google-api (Gemini)
